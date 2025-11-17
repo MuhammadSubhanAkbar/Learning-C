@@ -17,7 +17,7 @@ int main()
     */
 
     float fahr, celsius;
-    float lower, upper, step;
+    int lower, upper, step;
 
     lower = 0;   /* lower limit of temperature scale */
     upper = 300; /* upper limit */
