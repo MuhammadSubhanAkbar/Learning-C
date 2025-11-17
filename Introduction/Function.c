@@ -16,6 +16,9 @@ int main()
     {
         printf("%d \t %d\n",i, power(variable,i), power(-3, i));
     }
+    
+    getch();
+
     return 0;
 }
 
